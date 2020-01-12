@@ -16,12 +16,6 @@ void main() {
   group('HomeController Test', () {
     test("First Test", () {
       expect(home, isInstanceOf<HomeController>());
-    });
-
-    test("Set Value", () {
-      expect(home.value, equals(0));
-      home.increment();
-      expect(home.value, equals(1));
-    });
+    });  
   });
 }
