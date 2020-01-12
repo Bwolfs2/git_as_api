@@ -1,0 +1,37 @@
+[
+    {
+        "Cargo": "Co-Founder",
+        "NomeEmpresa": "Flutterando",
+        "Periodo": "dez de 2018 – o momento",
+        "Duracao": "1 ano 2 meses",
+        "Localidade": "Caxias do Sul e Região, Brasil"
+    },
+    {
+        "Cargo": "Programador Mobile Flutter",
+        "NomeEmpresa": "Coffsy",
+        "Periodo": "jul de 2018 – o momento",
+        "Duracao": "1 ano 7 meses",
+        "Localidade": "Caxias do Sul e Região, Brasil"
+    },
+    {
+        "Cargo": "Programador Mobile",
+        "NomeEmpresa": "Mercanet For Sales Management",
+        "Periodo": "fev de 2019 – jun de 2019",
+        "Duracao": "5 meses",
+        "Localidade": "Caxias do Sul, Rio Grande do Sul"
+    },
+    {
+        "Cargo": "Programador",
+        "NomeEmpresa": "Nighter",
+        "Periodo": "jul de 2018 – nov de 2018",
+        "DDuracao": "5 meses",
+        "Localidade": "São Paulo e Região, Brasil"
+    },
+    {
+        "Cargo": "Programador",
+        "NomeEmpresa": "Paicon",
+        "Periodo": "abr de 2017 – nov de 2017",
+        "Duracao": "8 meses",
+        "Localidade": "São Paulo e Região, Brasil"
+    }
+]
